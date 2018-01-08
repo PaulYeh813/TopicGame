@@ -32,16 +32,16 @@
 
 ![gantt](gantt2.png "甘特圖")
 
-#個人工作分配
-##崔恩偉 李俊岳
-##https://drive.google.com/file/d/1K3l_FNNStXYIvfwGs6BZMYC1i31yimeE/view
-##葉柏廷
-###角色動畫
+# 個人工作分配
+## 崔恩偉 李俊岳
+## https://drive.google.com/file/d/1K3l_FNNStXYIvfwGs6BZMYC1i31yimeE/view
+## 葉柏廷
+### 角色動畫
 ![Animation1](1514818534686.gif "動畫")
 ![Animation2](1514818633359.gif "動畫")
 ![Animation3](1514818645146.gif "動畫")
 ![Animation4](1514818685120.gif "動畫")
 ![Animation5](1514818720964.gif "動畫")
 ![Animation6](1514818881503.gif "動畫")
-##角色設計
+## 角色設計
 ![mainChaS](mainChaS.png"角色設計")
