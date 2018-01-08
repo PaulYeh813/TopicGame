@@ -43,5 +43,6 @@
 ![Animation4](1514818685120.gif "動畫")
 ![Animation5](1514818720964.gif "動畫")
 ![Animation6](1514818881503.gif "動畫")
-## 角色設計
+### 角色設計
 ![mainChaS](mainChaS.png"角色設計")
+### 場景設計(上圖展示)
